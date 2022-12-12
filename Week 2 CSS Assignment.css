@@ -17,11 +17,11 @@ text-align: center;
     margin-right: auto;
     display: block;
 }
-span.h2 {
+h2 span {
     color: #FA9F42;
     font-size: 0.75em;
 }
 #copyright{
-    padding: top 12px;
-    font-size: 00.75em;
+    padding-top: 12px;
+    font-size: 0.75em;
 }
