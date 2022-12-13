@@ -12,16 +12,19 @@ div.center-text {
 text-align: center;
 
 }
+#id{
+    display: block;
+}
 #logo{
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
-h2 span {
+h2 > span{
     color: #FA9F42;
-    font-size: 0.75em;
+    font-size:0.75em
 }
 #copyright{
-    padding-top: 12px;
-    font-size: 0.75em;
+    padding-top:12px;
+    font-size:0.75em;
 }
